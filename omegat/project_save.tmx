@@ -1268,8 +1268,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“喂，大哥等等！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181119T063049Z" creationid="User" creationdate="20181119T063001Z">
-        <seg>"Hey, Jiang Yi please wait!"</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181119T065707Z" creationid="User" creationdate="20181119T063001Z">
+        <seg>"Hey, Brother please wait!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2770,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180828T105857Z" creationid="USER" creationdate="20180810T062530Z">
         <seg>"Idiot! It's because of you that this cauldron of elixirs is ruined! Quickly retrieve the same ingredients as before and continue refining..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“看到没，战无双！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181119T065653Z" creationid="User" creationdate="20181119T065653Z">
+        <seg>"Zhan Wushuang, did you see that!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14562,8 +14570,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>钱万贯沉吟一阵，很快又眯笑了起来，招来一个人道：“传讯下去，让家族的探子查一下这人的资料，十五六岁综合战力竟达到紫府境了？不是七大世家的子弟也有如此天资？我倒是看走眼了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181119T064716Z" creationid="User" creationdate="20181119T064716Z">
-        <seg>Qian Wanguan muttered to himself for a short moment, then quickly  </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181119T065608Z" creationid="User" creationdate="20181119T064716Z">
+        <seg>fQian Wanguan muttered to himself for a short moment, then quickly went back to smiling and instructed a person,"Pass down my orders, let the scouts of family clans investigae the details of this person. How can his combined combat ability reach Purple Mansion Realm at only 15/16-years-old? With such talent without being one of the descendant of the seven great family clans? I have overlooked such a talent." </seg>
       </tuv>
     </tu>
     <tu>
