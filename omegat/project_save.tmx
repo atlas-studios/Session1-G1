@@ -1482,6 +1482,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“嘿嘿！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181119T073444Z" creationid="phang" creationdate="20181119T073444Z">
+        <seg>“Hehe！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“噗！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T192217Z" creationid="Joey" creationdate="20180917T192217Z">
@@ -1542,6 +1550,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181021T151911Z" creationid="tianqi" creationdate="20181021T151911Z">
         <seg>"'Great things'!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“大哥，缘分呐，我们居然在一个院子内住，以后还希望大哥多多照顾。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181119T073607Z" creationid="phang" creationdate="20181119T073607Z">
+        <seg> a</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2230,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T061835Z" creationid="Joey" creationdate="20180813T145226Z">
         <seg>"I have talent my ass."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我的身份？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181119T073527Z" creationid="phang" creationdate="20181119T073527Z">
+        <seg>“My identity?”</seg>
       </tuv>
     </tu>
     <tu>
@@ -7505,8 +7529,8 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       <tuv lang="ZH-CN">
         <seg>很多知道钱万贯身份的人却是内心一震，纷纷猜测江逸的身份起来，敢拍这个小胖子脑袋的人那可都是猛人啊，这个小胖子表面看起来人蓄无害，很多人被他怎么阴死的不知道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181119T072709Z" creationid="phang" creationdate="20181119T072709Z">
-        <seg>Many people who knew the identity of Qian Wanguan were in shock, </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181119T081558Z" creationid="phang" creationdate="20181119T072709Z">
+        <seg>Many people who knew the identity of Qian Wanguan were in shock, trying to guess Jiang Yi's identity one after another. </seg>
       </tuv>
     </tu>
     <tu>
