@@ -1003,3 +1003,5 @@
 丹房	Elixir Room
 炼丹房	alchemy lab
 镇西王	Western Garrison Liege Lord
+战无双	Zhan Wushuang
+黑衣少女	the girl in black
