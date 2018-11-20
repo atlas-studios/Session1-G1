@@ -8545,6 +8545,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰冷漠的注视着他们，银盾的名字呈淡红色，至少杀死了3个以上的平民。当玩家恶意击杀他人时，将会进入红名状态，在此状态下被击杀，会受到额外惩罚：等级下降，爆率大增等等。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T041634Z" creationid="User" creationdate="20181120T041011Z">
+        <seg> Lin Jie looked at them coldly. Silver Shield's name was light red, which means he killed at least more than three players. When players kills others with malicious intents, their names will turn red. If they are killed under such a status, he will receive additional punishments: A decrease in level, an  increase in the chances of dropping equipments etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰眼神一寒，这才开服多久？就有人包场？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T023324Z" creationid="User" creationdate="20181120T022940Z">
@@ -14834,8 +14842,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>银盾诧异的打量着拥有青铜长剑的林杰，眼神中掠过一丝贪婪，喝道，“铁壁帝国清场，你是耳朵聋了吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T040926Z" creationid="User" creationdate="20181120T040926Z">
-        <seg>Silver Shield sized up Lin Jie who had a bronze tier sword in astonishment. A hint of greed flashed across his eyes and he shouted,"Iron Wall Empire is clearing the grounds, are you deaf?"</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T041145Z" creationid="User" creationdate="20181120T040926Z">
+        <seg>Silver Shield sized up Lin Jie who had a bronze tier sword in astonishment. A hint of greed flashed across his eyes and he shouted,"Are you deaf? The Iron Wall Empire is clearing the grounds!"</seg>
       </tuv>
     </tu>
     <tu>
