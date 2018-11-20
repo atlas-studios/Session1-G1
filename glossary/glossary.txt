@@ -1013,3 +1013,9 @@
 银盾	Silver Shield
 青铜	bronze tier
 基础技能	basic skill
+剑气	sword aura
+弱点部位	weak point
+嘴角一勾	smiled wryly
+护腕	wrist guards
+抵天之盾	Sky Reaching Shield
+光明联盟	Light Legion
