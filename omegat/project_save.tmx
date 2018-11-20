@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你击杀了恶意攻击者，获得1点光明联盟声望。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T080051Z" creationid="User" creationdate="20181120T080051Z">
+        <seg>---"You have killed an attacker with malicious intents, you have gained one point of reputation with the Light Legion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T063929Z" creationid="User" creationdate="20181120T063929Z">
+        <seg>"Player Silver Shield's team has attacked you with malicious intent, you have been granted 20 minutes for self-defense!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180814T162010Z" creationid="Joey" creationdate="20180814T162010Z">
@@ -382,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你没这个本事。”林杰大喝，长剑一划，一道剑气朝银盾袭去！谁能想到一个战士能有远程攻击手段？银盾应声而倒！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T075529Z" creationid="User" creationdate="20181120T075529Z">
+        <seg>"You can't stop me!" Lin Jie shouted. With a slash of his long sword, a wave sword aura shot towards Silver Shield! Who would have thought that a warrior has long distance attacking skills! Silver Shield fell as Lin Jie finished his sentence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你错了，易剑！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T062238Z" creationid="Joey" creationdate="20180926T062238Z">
@@ -462,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“冲锋！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T072304Z" creationid="User" creationdate="20181120T072304Z">
+        <seg>"Charge!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“别打了，大爷别打了……你就算打死小奴，我也不会签卖身契的……大爷别打了，我会想办法赔钱的……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T080123Z" creationid="USER" creationdate="20180807T115618Z">
@@ -482,6 +514,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180816T053544Z" creationid="Joey" creationdate="20180816T053544Z">
         <seg>"Who on earth sealed my dantian? And how can I break this seal?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“剑气！”林杰身体尚未出现，长剑已经划在一个战士的脖子上！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T064334Z" creationid="User" creationdate="20181120T064334Z">
+        <seg>"Sword aura!" The long sword has already sliced one of the warrior's neck before Lin Jie could even be seen. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1622,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T010809Z" creationid="Joey" creationdate="20180803T102243Z">
         <seg>“In the vastness of the heaven and earth, only The Way is eternal. To obtain proof of heavenly law, one must first cultivate oneself…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好……好高的伤害！”战士一惊，林杰连续两剑，血条已经空了一半！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T065136Z" creationid="User" creationdate="20181120T065136Z">
+        <seg>"Such...such a high damage!" The warrior was shocked. Just by two slashes of his sword, the health bar had already been depleted by half.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,6 +3118,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“老大，我们追？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T082006Z" creationid="User" creationdate="20181120T082006Z">
+        <seg>"Boss, do we chase him?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“老朋友，今生没能带你进入仙域，我很抱歉……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005919Z" creationid="USER" creationdate="20180804T033149Z">
@@ -3226,6 +3282,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062000Z" creationid="USER" creationdate="20180809T060815Z">
         <seg>"I'll give it a try!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“该死。”银盾怒骂，开启援护，瞬间出现在队友面前！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T071012Z" creationid="User" creationdate="20181120T070507Z">
+        <seg>"Damn it."Silver Shield scolded. He activated an aiding skill, instantly appeared in front of his teammates.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,6 +3546,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T175252Z" creationid="Joey" creationdate="20180917T175252Z">
         <seg>"Psychedelic Steps!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“追什么追？”抵天之盾脸色一寒，回头看了一眼银盾的尸体，他的青铜盾牌已经爆了出来，好在那个战士没有能力过来捡走，否则就亏大了！“集合，先把宝箱拿到手！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T082730Z" creationid="User" creationdate="20181120T082730Z">
+        <seg>"Chase? What is there to chase?" Sky Reaching Shield's face darkened. He looked back at Silver Shield's corpse, he's bronze tier shield has already dropped. Good thing that that warrior did not have the ability to come and steal it, or else they would have been a costly loss!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3868,6 +3940,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180911T212022Z" creationid="Joey" creationdate="20180911T211912Z">
         <seg>A martial artist wearing a mask of a wild boar immediately stood up and walked towards that technique practising room. It was not long before the doors to the room sealed shut, and the sounds of combat as well as that teenage girl's delicate shouting voice vaguely rang out from inside. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一声爆喝，如同钢铁绞肉机般的盾战冲过来！他理着一个大平头，脸孔坑坑洼洼，嘴角的伤疤尤为显眼，手持青铜盾牌，身穿青铜铠甲，厚重无比！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T072713Z" creationid="User" creationdate="20181120T072713Z">
+        <seg>With a loud roar, he charged towards Lin Jie as though he was a steel meat grinder! He has a big flat head, his face is pitted, and the scars at the corners of his mouth are particularly conspicuous. He holds a bronze tier shield and is wearing bronze tier armor which is extremely thick and heavy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6477,6 +6557,14 @@ Even splitting entire mountains, flying freely in the sky, and becoming virtuall
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>在漂浮药剂的作用下，林杰的身体飘了起来，踩在大树之上，利用浮空力猛蹿几步，朝树顶跑去，消失在视野之内。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T081949Z" creationid="User" creationdate="20181120T081949Z">
+        <seg>Under the effects of the floating potion, Lin Jie's body started floating. By stepping on the tree, he made use of the floating effect and leaped towards the top of the tree. With that, he disappeared from sight. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>在确定江逸不能修炼后，收养他的大长老瞬间便苍老了十岁有多，他从此整日闭门不出，翻阅各种符箓古籍，四处寻访符文高手，希望有朝一日能够破解封印。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T010551Z" creationid="Joey" creationdate="20180803T101728Z">
@@ -7459,6 +7547,14 @@ This had rung especially true in the past few years. For him, being “a young m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>弱点部位攻击，让林杰直接无视了他脆弱的防御。强大的伤害直接划空了他五分之一的生命值！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T065330Z" creationid="User" creationdate="20181120T064941Z">
+        <seg>By attacking the weak point, this allowed Lin Jie to ignore what little defense the warrior had. The powerful attack directly cut his health by one fifth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>强忍着内心的暴怒和左胸撕裂般的痛楚，江逸大喊一声欲吸引对方的注意力，同时双手如两根海藤般朝对方的手掌缠去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180825T171832Z" creationid="USER" creationdate="20180809T063135Z">
@@ -7471,6 +7567,14 @@ This had rung especially true in the past few years. For him, being “a young m
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062937Z" creationid="Joey" creationdate="20180813T131526Z">
         <seg>Resisting with great difficulty the greediness in his heart, Jiang Yi with great humility retrieved a Essence Force Elixir, the lowest-quality pill, as well as three pills of Yellow Ginseng Elixir, the pill with the lowest medicinal healing power, before hastily leaving the alchemy lab and walked in the direction of the Housekeeping Chamber where Chief Rong was located. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>当——</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T070519Z" creationid="User" creationdate="20181120T070519Z">
+        <seg>Clash---</seg>
       </tuv>
     </tu>
     <tu>
@@ -8033,6 +8137,30 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>抵天之盾暴怒，盾牌抡得虎虎生风，朝林杰袭去！林杰狠狠一咬牙，一口将漂浮药剂灌了下去，身体重量猛地一轻，长剑一横，被盾牌击中！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T081749Z" creationid="User" creationdate="20181120T081749Z">
+        <seg>Sky Reaching Shield exploded in anger, waving his shield while charging towards Lin Jie! Lin Jie clenched his teeth and decided to use the floating potion. With one gulp, he downed the potion. His body weight decreased sharply. By turning his sword sideways, he blocked the shield. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>抵天之盾的盾牌轰击在林杰的脸上，伤害简直爆表！他将银盾护在身后，将林杰击退半步。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T074552Z" creationid="User" creationdate="20181120T074207Z">
+        <seg>Sky Reaching Shield's shield bashed Lin Jie in the face. The damage was astonishing! He protected Silver Shield, forcing Lin Jie to take half a step back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>抵天之盾眼神一沉，喝道，“护好银盾！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T074839Z" creationid="User" creationdate="20181120T074839Z">
+        <seg>Sky Reaching Shield's face darkened, shouting,"Protect Silver Shield!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>据大长老说，是他娘亲在他一岁时购买的弃婴，给他做侍女的。尽管名分上是侍女，但江逸和江小奴一同长大，情同兄妹，在大长老失踪后两人更是相依为命。这些年来如果不是江小奴一直为他鼓气加油，他也不知道能不能坚持下来！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T014153Z" creationid="USER" creationdate="20180807T080525Z">
@@ -8085,6 +8213,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T173431Z" creationid="Joey" creationdate="20180917T173245Z">
         <seg>To catch bandits, one must first capture the bandit leader!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>攻击判定已经形成！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T063417Z" creationid="User" creationdate="20181120T063417Z">
+        <seg>Act of aggression has been confirmed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8569,10 +8705,66 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰刺出一剑，银盾举起盾牌朝剑尖顶去！这是要强制格挡自己的攻势！就在此时，剑锋一转，刁钻斜刺如银盾的肩膀，爆出一个16点的伤害值！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T071640Z" creationid="User" creationdate="20181120T071640Z">
+        <seg>Lin Jie stabbed with his sword. Silver Shield raised his shield and brought it towards the sword tip! This is to forcefully block his attack! Just at this moment, the sword's direction changed. It stabbed Silver Shield on his shoulder diagonally at a tricky angle, giving a critical hit of 16 damage value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰嘴角一勾，使用白板武器的战士能有多少伤害？何况自己有护腕护体，除非对方也有青铜装备，否则根本不可能杀死自己！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T070057Z" creationid="User" creationdate="20181120T070057Z">
+        <seg>Lin Jie smiled wryly. How much damage can a warrior with a blank tier weapon do? Moreover, he had wrist guards to protect himself. Unless, the opponent has bronze tier equipment, it is impossible to kill him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰大惊，抵天之盾的技术比那两个菜鸟战士强得不是一星半点，冲锋过程中急转变向，林杰纵使改变身位也无法躲避，嘣的一声被冲锋命中，眩晕！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T074258Z" creationid="User" creationdate="20181120T073300Z">
+        <seg>Lin Jie was shocked. Sky Reaching Shield's technique was significantly more superior as compared to the two noob warriors. He changed direction suddenly in the middle of charging, leaving Lin Jie no way to dodge even if he changed his position. With a bang, Lin Jie was hit by the skill, "charging forward" and stunned! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰沉声定气，半个身体靠在树干之上，在战士冲锋的瞬间后侧半步，两个战士收不住冲势，咣当一声撞到树干上！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T063300Z" creationid="User" creationdate="20181120T063300Z">
+        <seg>Lin Jie remained calm, leaning half of his body on the tree trunk. He stepped back half a step at the moment the warrior charged forward. The two warriors could not stop in time and crashed into the tree with a bang! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰的攻击被银盾挡了下来，巨大的力量震得银盾虎口生疼。银盾若是没点本事怎么能混成铁壁帝国团长？不仅拥有青铜盾牌，还有援护技能，相当强大！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T071130Z" creationid="User" creationdate="20181120T070947Z">
+        <seg>Lin Jie's attack was blocked by Silver Shield. The huge strength shocked him to the bone. If Silver Shield does not have any capability, how does he become one of Iron Wall Empire's team leader? He not only has bronze tier shield, but also aiding skill, meaning he is quite powerful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰眼神一寒，这才开服多久？就有人包场？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T023324Z" creationid="User" creationdate="20181120T022940Z">
         <seg>Lin Jie's eyes looked on with a cold stare. How long has it been since the game started? And already there are people monopolized the farming grounds?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰连续刺出几剑，银盾的生命值已经岌岌可危！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T072257Z" creationid="User" creationdate="20181120T072257Z">
+        <seg>Lin Jie continued stabbing, Silver Shield's health is already in the red zone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰长剑低垂，看着只有血皮的银盾，冷冷一笑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T074644Z" creationid="User" creationdate="20181120T074644Z">
+        <seg>Lin Jie's long sword was pointing to the ground, seeing Silver Shield is left with only a shred of health, he laughed coldly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8787,6 +8979,22 @@ He then snorted coldly. "Jiang Song, you can get out of my sight now! You no lon
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T161657Z" creationid="tianqi" creationdate="20181024T161626Z">
         <seg>While Jiang Yi was still in a daze, Yi Lingxue solemnly retrieved a command token from her chest pocket and said, "On behalf of the Yi Family, I, Yi Lingxue, formally invite you to join our family under the position of Second Elder of the family's martial arts training court. The remuneration will be... " </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>正当防卫时间之内击杀恶意攻击者不会红名！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T064040Z" creationid="User" creationdate="20181120T064040Z">
+        <seg>During this time, players can kill the attackers without their names turning red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>此人便是铁壁帝国会长——抵天之盾！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T073320Z" creationid="User" creationdate="20181120T073130Z">
+        <seg>This person is the Iron Wall Empire's guild leader---Sky Reaching Shield</seg>
       </tuv>
     </tu>
     <tu>
@@ -14338,6 +14546,14 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>这个时间段，他们只掌握一个冲锋技能。近身对战，则被林杰完虐！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T070313Z" creationid="User" creationdate="20181120T070313Z">
+        <seg>In this time period, they only grasped one skill---charging forward. In close combat, they are totally oppressed by Lin Jie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>这个龙形封印异常的古怪，大长老当时已经达到了紫府境八重，如此强大实力整整研究了两年却一筹莫展。想了很多办法，封印没有一丝松动和变幻，此刻却明显少了一枚符文。这说明什么？说明他很有可能彻底破解这封印啊。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T054412Z" creationid="Joey" creationdate="20180817T021816Z">
@@ -14458,6 +14674,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T010800Z" creationid="Joey" creationdate="20180803T102213Z">
         <seg>At this moment, Xiaonu quickly delivered a lit candle and mouthed, “Don't give up, Young Master! You can do it!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这时，另一人的攻击终于砸在林杰的身体上！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T065234Z" creationid="User" creationdate="20181120T065234Z">
+        <seg>By this time, the other warrior's attack finally hit Lin Jie's body.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14852,6 +15076,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T024346Z" creationid="User" creationdate="20181120T023208Z">
         <seg>The Iron Wall Empire was way too arrogant in the opening months of the game Ji Yuan. They went ahead with many overbearing actions, like all sorts of monopolizing as well as killing of players. There is a saying, to bully the weak and fear the strong. After many players were bullied, they decided to just join this guild in search of stability. Thus, this guild started to expand, almost becoming the first guild in the game. However, Iron Wall Empire was only paper tiger, it was easily wiped out by Honorary Dynasty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>银盾眼神一凛，下一次攻击继续格挡，却依旧被林杰以诡异的角度刺中！盾战的强大防御建立在盾牌格挡成功的前提下，否则不计算盾牌防御！失去盾牌加成的银盾，也只是一个白板战士罢了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T072224Z" creationid="User" creationdate="20181120T072224Z">
+        <seg>Silver Shield's eyes turned cold, continuing to block the next attack, but was still hit by Lin Jie at a strange angle! The shield's strong defense is effective only under the condition that one succeeds in blocking the attack by using the shield. Or else, the defense of the shield does not count! Without the addition of the shield's defense, Silver Shield is but just another blank tier warrior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15380,6 +15612,38 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180818T151331Z" creationid="USER" creationdate="20180807T080727Z">
         <seg>Just like how dragons had a reverse scale, which would cause death upon contact, one would definitely get themselves killed if they rubbed somebody the wrong way!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－10！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T074108Z" creationid="User" creationdate="20181120T074108Z">
+        <seg>-10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－10！（格挡）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T070541Z" creationid="User" creationdate="20181120T070541Z">
+        <seg>-10! (Blocked)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－21！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T064428Z" creationid="User" creationdate="20181120T064428Z">
+        <seg>- 21!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－5！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181120T074114Z" creationid="User" creationdate="20181120T065239Z">
+        <seg>-5</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
