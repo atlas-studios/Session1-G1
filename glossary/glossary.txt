@@ -1012,3 +1012,4 @@
 荣耀王朝	Honorary Dynasty
 银盾	Silver Shield
 青铜	bronze tier
+基础技能	basic skill
