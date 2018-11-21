@@ -8769,6 +8769,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰藏于树叶之中，将颂唱长剑与护腕从身上取下来，送入背包。他之所以要购买漂浮药剂，只因为那个无品级宝箱就在大树之上！但是被迫喝下药剂，只能够另寻他路了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T065827Z" creationid="User" creationdate="20181121T065827Z">
+        <seg>Lin Jie had hidden within the leaves of trees. He removed </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰连续刺出几剑，银盾的生命值已经岌岌可危！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T072257Z" creationid="User" creationdate="20181120T072257Z">
@@ -15634,32 +15642,32 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>－10！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T074108Z" creationid="User" creationdate="20181120T074108Z">
-        <seg>-10</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T065540Z" creationid="User" creationdate="20181120T074108Z">
+        <seg>－10!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>－10！（格挡）</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T070541Z" creationid="User" creationdate="20181120T070541Z">
-        <seg>-10! (Blocked)</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T065548Z" creationid="User" creationdate="20181120T070541Z">
+        <seg>－10! (Blocked)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>－21！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T064428Z" creationid="User" creationdate="20181120T064428Z">
-        <seg>- 21!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T065605Z" creationid="User" creationdate="20181120T064428Z">
+        <seg>－21!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>－5！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T074114Z" creationid="User" creationdate="20181120T065239Z">
-        <seg>-5</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T065555Z" creationid="User" creationdate="20181120T065239Z">
+        <seg>－5!</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
