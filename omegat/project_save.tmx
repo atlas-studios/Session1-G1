@@ -5822,6 +5822,14 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>冲刺类技能，是近战必备技能。它给战士这种板甲慢速职业提供了一个很好的加速技能，配合冲锋使用效果更佳。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T093705Z" creationid="User" creationdate="20181121T093705Z">
+        <seg>Charging skills are essential for close combats. It provides warriors who are slow due to their plate occupation a very good acceleration skill. If used with charging forward skill, the effects are even better.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>冲锋！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T042758Z" creationid="User" creationdate="20181120T042728Z">
@@ -14138,6 +14146,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180912T101533Z" creationid="Joey" creationdate="20180912T101533Z">
         <seg>As for that Young Mistress Yi - with her face filled with an expression of discontent, she was reprimanding Manager Yang, saying, "Manager Yang, you are truly brazen! Is it just that you're disgruntled with me, Yi Lingxue? You arranged for a gold token-grade sparring partner to pass off as a bronze token-grade sparring partner... Is it a lot of fun for you to toy with me this way?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>职业限定：战士，盗贼，圣骑士</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T093012Z" creationid="User" creationdate="20181121T093012Z">
+        <seg>Occupation limitation: Warrior, Thief, Paladin</seg>
       </tuv>
     </tu>
     <tu>
