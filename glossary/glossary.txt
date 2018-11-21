@@ -1021,3 +1021,4 @@
 光明联盟	Light Legion
 颂唱长剑	Chanting long sword
 宝箱	trasure chest
+羽落宝石	falling feather-like gemstone
