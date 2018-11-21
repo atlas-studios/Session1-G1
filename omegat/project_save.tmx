@@ -15808,6 +15808,17 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">00004.txt</prop>
+      <prop type="prev">——“你获得技能书：狂野冲刺。”</prop>
+      <prop type="next">羽落宝石（黄金）</prop>
+      <tuv lang="ZH-CN">
+        <seg>林杰继续捞了捞，确认没有其他物品才把手抽出来。半秒之后，宝箱消失不见。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083028Z" creationid="User" creationdate="20181121T083028Z">
+        <seg>Lin Jie continued digging, ensuring that there were no more items before pulling his hand out. Half a second later, the treasure chest disappeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">0002.txt</prop>
       <prop type="prev">“实力！”</prop>
       <prop type="next">“没有强大的实力！我江逸一辈子都会被江如虎这样的杂碎给踩在脚下，百般凌辱！这不是我想要的生活，绝对不是！”回想着晨时的一幕幕，江逸脸上条条青筋爆起，拳头紧握，连指甲都深深陷入了掌心。</prop>
