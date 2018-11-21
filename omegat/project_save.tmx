@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你进入牧亡灵湖彼岸。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181121T150829Z" creationid="phang" creationdate="20181121T141153Z">
+        <seg>"You've entered the banks of e </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T091317Z" creationid="User" creationdate="20181120T063929Z">
@@ -9123,8 +9131,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>林杰眼神一寒，这才开服多久？就有人包场？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T023324Z" creationid="User" creationdate="20181120T022940Z">
-        <seg>Lin Jie's eyes looked on with a cold stare. How long has it been since the game started? And already there are people monopolized the farming grounds?</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181121T151027Z" creationid="User" creationdate="20181120T022940Z">
+        <seg>Lin Jie's eyes looked on with a cold stare. How long has it been since the game started? And already there are people monopolizing the farming grounds?</seg>
       </tuv>
     </tu>
     <tu>
