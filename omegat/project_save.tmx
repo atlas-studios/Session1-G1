@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你获得技能书：狂野冲刺。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T082505Z" creationid="User" creationdate="20181121T082505Z">
+        <seg>——"You have obtained the skill book: Wild Charging."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>——“你获得羽落宝石（黄金）”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T082326Z" creationid="User" creationdate="20181121T082326Z">
+        <seg>——"You have obtained the falling feather-like gemstone (gold tier)"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T063929Z" creationid="User" creationdate="20181120T063929Z">
