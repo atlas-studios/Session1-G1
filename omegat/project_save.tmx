@@ -8889,6 +8889,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰眉毛狠狠跳了跳，居然是羽落装备！在纪元大陆有很多神奇的装备，它们没有强悍的属性，却有很多不同的奇特效果。比如羽落装备，这种东西只在10级前有产出，唯一被公布的产出地是4级副本亚罗索之巅，并且爆率极低。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T084958Z" creationid="User" creationdate="20181121T084958Z">
+        <seg>Lin Jie was astounded. It was really a falling feather-like equipment! In Ji Yuan continent, there were many mystical equipments. They did not have very strong attributes, but had different peculiar effects. For example, the falling feather-like equipment. This item can only be obtained before level 10. The only place known by public that this item can be found is the level 4 instance, Summit of Ya Luo Suo mountain. Also, the burst rates are extremely low. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰眼神一寒，这才开服多久？就有人包场？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T023324Z" creationid="User" creationdate="20181120T022940Z">
@@ -15362,8 +15370,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>附加：羽落术，你将只有羽毛的重量，允许进行短暂的漂浮。冷却时间10秒。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T083749Z" creationid="User" creationdate="20181121T083749Z">
-        <seg>Additional effect: falling feather-like skill, you shall have the weight of only a feather. You will be able to float temporarily. Cool-down time: 10 seconds </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083755Z" creationid="User" creationdate="20181121T083749Z">
+        <seg>Additional effect: falling feather-like skill, you shall have the weight of only a feather. You will be able to float temporarily. Cool-down time: 10 seconds. </seg>
       </tuv>
     </tu>
     <tu>
