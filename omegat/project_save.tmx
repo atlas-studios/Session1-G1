@@ -4080,6 +4080,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>【烂肉】：可食用，每秒减少生命值20点，持续10秒。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181121T174542Z" creationid="phang" creationdate="20181121T174542Z">
+        <seg>[Rotting Flesh] : Consumable, reduces health by 20 points per second continuously for 10 seconds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>【爬行死尸】：3级亡灵，生命值140</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T115548Z" creationid="User" creationdate="20181121T115548Z">
