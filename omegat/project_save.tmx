@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你获得1枚银币。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T082228Z" creationid="User" creationdate="20181121T082228Z">
+        <seg>——"You have obtained 1 silver coin."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T063929Z" creationid="User" creationdate="20181120T063929Z">
@@ -6374,6 +6382,14 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180818T094222Z" creationid="Joey" creationdate="20180818T094222Z">
         <seg>Upon hearing of this information, Jiang Yi was at a complete state of shock and loss, his face filled with remorse and anxiety. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>咔吧……宝箱应声而开。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T082141Z" creationid="User" creationdate="20181121T082141Z">
+        <seg>Click…The treasure chest opened with that sound.</seg>
       </tuv>
     </tu>
     <tu>
