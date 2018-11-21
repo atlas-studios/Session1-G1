@@ -1031,3 +1031,4 @@
 刷新	respawn
 牧亡灵湖	Undead Shepherd Lake
 七耳	Qi Er
+弱点	weak point
