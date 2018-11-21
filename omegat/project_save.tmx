@@ -5650,6 +5650,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>全属性+1</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083240Z" creationid="User" creationdate="20181121T083240Z">
+        <seg>All attributes+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>六千六百年！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005241Z" creationid="USER" creationdate="20180803T042450Z">
@@ -15352,6 +15360,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>附加：羽落术，你将只有羽毛的重量，允许进行短暂的漂浮。冷却时间10秒。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083749Z" creationid="User" creationdate="20181121T083749Z">
+        <seg>Additional effect: falling feather-like skill, you shall have the weight of only a feather. You will be able to float temporarily. Cool-down time: 10 seconds </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>除此之外，他再也没有发现黑色元力还有其他的功能，他分析了一下，这黑色元力应该是一种很独特的能量，拥有增幅的功能——能增幅他蓝色元力的威力，增幅他的五官敏锐度，增幅丹药的药力。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062730Z" creationid="USER" creationdate="20180810T025407Z">
@@ -15412,6 +15428,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180909T155046Z" creationid="USER" creationdate="20180812T082428Z">
         <seg>Jiang Yi, who was inside the booth, was in a nervous mood. This was the first time he had been to such a major location; on top of that, he had to wait for his counterpart to evaulate and make a decision on the offer. He would be lying if he said he was not anxious. Thankfully, his entire face was entirely shroudded by his black cloak, while his steady personality and much calm composure was much developped by many years of oppressive cruel life.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>需求0级，饰品</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083219Z" creationid="User" creationdate="20181121T083219Z">
+        <seg>Level needed: 0, Accessory</seg>
       </tuv>
     </tu>
     <tu>
