@@ -1,4 +1,4 @@
-好马不吃回头草	a good man doesn't backtrack
+﻿好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -1020,5 +1020,5 @@
 抵天之盾	Sky Reaching Shield
 光明联盟	Light Legion
 颂唱长剑	Chanting long sword
-宝箱	trasure chest
 羽落宝石	falling feather-like gemstone
+宝箱	treasure chest
