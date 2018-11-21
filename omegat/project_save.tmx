@@ -2410,6 +2410,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是……那银盾团长……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T064617Z" creationid="User" creationdate="20181121T064617Z">
+        <seg>"Yes...but how about team leader Silver Shield..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是你？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181119T060034Z" creationid="User" creationdate="20181119T060034Z">
@@ -3552,8 +3560,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“追什么追？”抵天之盾脸色一寒，回头看了一眼银盾的尸体，他的青铜盾牌已经爆了出来，好在那个战士没有能力过来捡走，否则就亏大了！“集合，先把宝箱拿到手！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T082730Z" creationid="User" creationdate="20181120T082730Z">
-        <seg>"Chase? What is there to chase?" Sky Reaching Shield's face darkened. He looked back at Silver Shield's corpse, he's bronze tier shield has already dropped. Good thing that that warrior did not have the ability to come and steal it, or else they would have been a costly loss!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T064429Z" creationid="User" creationdate="20181120T082730Z">
+        <seg>"Chase? What is there to chase?" Sky Reaching Shield's face darkened. He looked back at Silver Shield's corpse, he's bronze tier shield has already dropped. Good thing that that warrior did not have the ability to come and steal it, or else it would have been a costly loss!</seg>
       </tuv>
     </tu>
     <tu>
