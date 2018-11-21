@@ -7171,6 +7171,14 @@ with the time that the elixir medical efficacy lasted also having extended up to
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>宝箱开启中……1%……3%……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T081741Z" creationid="User" creationdate="20181121T081741Z">
+        <seg>Opening of the treasure chest in progress…1%…3%…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>实力最低都是铸鼎境二重，江豹江松等人赫然在列，如此多人就算他拥有铸鼎境四重的实力，怕是也很难安然无恙的走下西山。更别说他刚刚突破铸鼎境二重，丹田内的黑色元力只有六缕……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T222542Z" creationid="Joey" creationdate="20180916T222542Z">
@@ -8771,8 +8779,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>林杰则蹲在无品级宝箱身边，开始读条。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T081435Z" creationid="User" creationdate="20181121T081435Z">
-        <seg>Meanwhile, Lin Jie squatted beside the grade-less treasure chest and started waiting for the treasure chest to open. </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T081510Z" creationid="User" creationdate="20181121T081435Z">
+        <seg>Meanwhile, Lin Jie squatted beside the grade-less treasure chest and started opening the treasure chest. </seg>
       </tuv>
     </tu>
     <tu>
