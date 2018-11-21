@@ -4064,6 +4064,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一个硕大的数字跳了出来！对怪物弱点进行攻击能够附加15%到40%的伤害值，再加上暴击伤害，林杰一击干掉了稀有精英4%的生命值！稀有精英吃痛，拔出武器继续攻击，再次被林杰引向大树！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T161400Z" creationid="User" creationdate="20181121T161400Z">
+        <seg>A high damage appeared! Attacking the weak spot of the monsters can have an additional 15% to 40% damage value, in addition to the critical hit, Lin Jie reduced the rare elite's health by 4% in one shot. The rare elite felt pain and pulled out its weapon to continue attacking, being lured towards the huge tree again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一个身着朴素长袍，双手拄着一把华丽狭长的七彩神剑，很随意地坐在石梯上的老人。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005603Z" creationid="USER" creationdate="20180803T100231Z">
@@ -16320,6 +16328,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>－20！（弱点攻击，暴击）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T161005Z" creationid="User" creationdate="20181121T161005Z">
+        <seg>－20！(Weakness point attack, critical hit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>－21！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T065605Z" creationid="User" creationdate="20181120T064428Z">
@@ -16340,6 +16356,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T065555Z" creationid="User" creationdate="20181120T065239Z">
         <seg>－5!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－8！－7！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T160933Z" creationid="User" creationdate="20181121T160933Z">
+        <seg>－8！－7!</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
