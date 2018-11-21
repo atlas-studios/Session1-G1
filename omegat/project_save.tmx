@@ -3952,6 +3952,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>【亡语药剂】：可使用次数100/100。使你复活一具尸体，这个效果无法作用于20级以上生物。当尸体复活时有1%的几率转化为你的奴仆。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T112009Z" creationid="User" creationdate="20181121T112009Z">
+        <seg>【Revival Potion】:Number of remaining usage 100/100. Allows you to revive a dead corpse, this effect is unusable for living creatures above level 20. When a corpse revives, there is 1% chance it will convert into your servant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一个多时辰后……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180818T074358Z" creationid="USER" creationdate="20180807T063036Z">
