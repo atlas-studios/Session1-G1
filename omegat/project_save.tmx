@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>MISS！MISS！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T165026Z" creationid="User" creationdate="20181121T165026Z">
+        <seg>MISS！MISS!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“你击杀了恶意攻击者，获得1点光明联盟声望。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T080051Z" creationid="User" creationdate="20181120T080051Z">
         <seg>---"You have killed an attacker with malicious intents, you have gained one point of reputation with the Light Legion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>——“你击杀了迷失士兵麦尔，你获得经验值2100（越级击杀），你获得梅尔小镇声望100.”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T165639Z" creationid="User" creationdate="20181121T165639Z">
+        <seg>——"You have killed the Lost Soldier Mai Er. You have gained 2100 experience points. You have gained 100 points of Mai Er town's reputation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3518,6 +3534,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“轰——”稀有精英的尸体重重倒了下去！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T165234Z" creationid="User" creationdate="20181121T165234Z">
+        <seg>"Bang——" Rare elite's corpse fel down heavily!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“轰！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T065347Z" creationid="USER" creationdate="20180803T073510Z">
@@ -6446,6 +6470,14 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>叮~</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T165247Z" creationid="User" creationdate="20181121T165247Z">
+        <seg>Ding~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>可如果自己不是在做梦的话……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011418Z" creationid="Joey" creationdate="20180802T080920Z">
@@ -7661,6 +7693,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005958Z" creationid="USER" creationdate="20180804T040249Z">
         <seg>It was as if the nameless one had never stepped forth into this universe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在这个时候，稀有精英的双眼蒙上一层黑雾！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T165012Z" creationid="User" creationdate="20181121T165012Z">
+        <seg>Just at this moment, the rare elite's eyes were covered in a layer of black fog!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16524,6 +16564,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T164354Z" creationid="User" creationdate="20181121T164354Z">
         <seg>－13!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－16（弱点伤害）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T165145Z" creationid="User" creationdate="20181121T165145Z">
+        <seg>－16（Weak Point Damage)</seg>
       </tuv>
     </tu>
     <tu>
