@@ -24,8 +24,8 @@
       <tuv lang="ZH-CN">
         <seg>——“你击杀了恶意攻击者，获得1点光明联盟声望。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T080051Z" creationid="User" creationdate="20181120T080051Z">
-        <seg>---"You have killed an attacker with malicious intents, you have gained one point of reputation with the Light Legion.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T165946Z" creationid="User" creationdate="20181120T080051Z">
+        <seg>---"You have killed an attacker with malicious intents, you have gained one point of Light Legion's reputation.</seg>
       </tuv>
     </tu>
     <tu>
