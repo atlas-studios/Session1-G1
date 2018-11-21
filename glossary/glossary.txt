@@ -1029,3 +1029,5 @@
 圣骑士	paladin
 死灵残念	undead souls
 刷新	respawn
+牧亡灵湖	Undead Shepherd Lake
+七耳	Qi Er
