@@ -1027,3 +1027,4 @@
 战士	warrior
 盗贼	thief
 圣骑士	paladin
+死灵残念	undead souls
