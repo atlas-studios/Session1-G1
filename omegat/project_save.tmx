@@ -48,8 +48,8 @@
       <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T063929Z" creationid="User" creationdate="20181120T063929Z">
-        <seg>"Player Silver Shield's team has attacked you with malicious intent, you have been granted 20 minutes for self-defense!" </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T091317Z" creationid="User" creationdate="20181120T063929Z">
+        <seg>"Player Silver Shield's party has attacked you with malicious intent, you have been granted 20 minutes for self-defense!" </seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@
       <tuv lang="ZH-CN">
         <seg>“他太过自傲，打击一下也好！剔除银盾团长职位，让他给我消停一点！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T065518Z" creationid="User" creationdate="20181121T065127Z">
-        <seg>"He was way too self-conceited, some setbacks is good for him! He will be demoted from his position as team leader. It should make him reflect on his actions and stop giving me troubles!" </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T091335Z" creationid="User" creationdate="20181121T065127Z">
+        <seg>"He was way too self-conceited, some setbacks is good for him! He will be demoted from his position as party leader. It should make him reflect on his actions and stop giving me troubles!" </seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,8 +4422,8 @@ He had just the right time to carefully research the black essence force.</seg>
       <tuv lang="ZH-CN">
         <seg>不远处，是一个显眼的五人队伍。五人同一款式的白银色铠甲，领头一人手中三十多岁，手握半人高大盾，此人是铁壁帝国团长——银盾。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T025222Z" creationid="User" creationdate="20181120T025222Z">
-        <seg>Not far away is a noticeable five-man team. They wore the same type of silver armor and the leader was a man in his thirties. In his hand was a shield half the height of a man. This person was the team leader---Silver Shield. </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T091203Z" creationid="User" creationdate="20181120T025222Z">
+        <seg>Not far away is a noticeable five-man team. They wore the same type of silver armor and the leader was a man in his thirties. In his hand was a shield half the height of a man. This person was the party leader——Silver Shield. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12706,8 +12706,8 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
       <tuv lang="ZH-CN">
         <seg>没想到这里居然出产羽落宝石，既然如此，刷亚罗索之巅的计划可以取消了。为了搞到传承断刃，必须做好万全准备，羽落装备就是极其重要和艰难的一环。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T091119Z" creationid="User" creationdate="20181121T091119Z">
-        <seg>Who would have thought that falling feather-like gemstone could be obtained this way? In this case, the plan to </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T091449Z" creationid="User" creationdate="20181121T091119Z">
+        <seg>Who would have thought that falling feather-like gemstone could be obtained this way? In that case, the plan to repeatedly complete the Summit of Ya Suo Luo Mountain dungeon </seg>
       </tuv>
     </tu>
     <tu>
