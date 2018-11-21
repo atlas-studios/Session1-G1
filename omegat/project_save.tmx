@@ -6770,8 +6770,8 @@ with the time that the elixir medical efficacy lasted also having extended up to
       <tuv lang="ZH-CN">
         <seg>大公会拥有锻造师，制皮师，药剂师等生活职业玩家，在前期为公会成员提供统一的白板装备，属性一般，不过外形整齐划一，也算是官方标配。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181120T035816Z" creationid="User" creationdate="20181120T035816Z">
-        <seg>Big guilds have lifestyle professional players such as blacksmiths, artisans and herbalists. In the beginning, the guild will provide blank tier equipment that acts as a proof of identity with its standard design though it only has normal attributes. </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T100026Z" creationid="User" creationdate="20181120T035816Z">
+        <seg>Big guilds have lifestyle professional players such as blacksmiths, artisans and pharmacists. In the beginning, the guild will provide blank tier equipment that acts as a proof of identity with its standard design though it only has normal attributes. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15274,6 +15274,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T183935Z" creationid="USER" creationdate="20180811T122928Z">
         <seg>That alchemist reveal a sliver of disappointment on his face. Looking at the elixirs once again, he quickly turned his body and walked out of the booth. At the same time, he instructed the manager by saying, "Entertain this customer well, I need to consult with Second Young Mistress for a moment."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那片死灰色的湖泊已经近在咫尺，林杰开启羽落术，从大树顶端起跳，朝湖泊对面划过去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T100341Z" creationid="User" creationdate="20181121T100341Z">
+        <seg>That dark dead grey lake is already in close proximity. Lin Jie activated the falling feather-like skill and jumped form the tip of the huge tree. He then started swimming towards the opposite of the lake.</seg>
       </tuv>
     </tu>
     <tu>
