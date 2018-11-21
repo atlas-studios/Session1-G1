@@ -40,8 +40,8 @@
       <tuv lang="ZH-CN">
         <seg>——“你获得羽落宝石（黄金）”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T082326Z" creationid="User" creationdate="20181121T082326Z">
-        <seg>——"You have obtained the falling feather-like gemstone (gold tier)"</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083111Z" creationid="User" creationdate="20181121T082326Z">
+        <seg>——"You have obtained the falling feather-like gemstone (Gold Tier)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8209,6 +8209,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>所有职业均可使用</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083151Z" creationid="User" creationdate="20181121T083151Z">
+        <seg>Usable for all occupations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>所谓陪练，自然是陪着别人练武，帮助对方提高实战经验。换句话说，别人可以随便打你，你也可以还手，但却不能伤了对方，这就是主动挨揍的活儿。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180911T054244Z" creationid="USER" creationdate="20180816T063403Z">
@@ -13778,6 +13786,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055640Z" creationid="Joey" creationdate="20180811T192421Z">
         <seg>In the end what left him truly speechless was an old man in the inner part of the room, wearing a long brown robe with disheveled hair like a madman, standing around a cauldron and staring into it with his eyes wide open. As for the Jiang family collateral descendant who was normally in the Elixir Room helping, Jiang Song, he was not in the Elixir Room.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>羽落宝石（黄金）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181121T083104Z" creationid="User" creationdate="20181121T083104Z">
+        <seg>Falling Feather-like Gemstone (Gold Tier)</seg>
       </tuv>
     </tu>
     <tu>
