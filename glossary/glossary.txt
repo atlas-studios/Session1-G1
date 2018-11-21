@@ -1023,3 +1023,4 @@
 羽落宝石	falling feather-like gemstone
 宝箱	treasure chest
 羽落	falling feather-like
+团长	party leader
