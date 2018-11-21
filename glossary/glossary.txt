@@ -1024,3 +1024,6 @@
 宝箱	treasure chest
 羽落	falling feather-like
 团长	party leader
+战士	warrior
+盗贼	thief
+圣骑士	paladin
