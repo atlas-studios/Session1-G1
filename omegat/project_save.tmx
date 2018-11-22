@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>3级稀有精英攻击林杰的命中率是100%，而下降了10%后，就有了出现奇迹的机会！林杰的运气极好，凭借连续2次10%的未命中率躲了过去！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T180513Z" creationid="phang" creationdate="20181122T180513Z">
+        <seg>The level 3 rare elite ranked monster that attacked Lin Jie had 100% accuracy. After it was decreased by 10%, a chance for miracle appeared! With his great luck, Lin Jie dodged the attacks of the monster consecutively two times with the aid of the 10% decrease in accuracy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>MISS！MISS！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T165026Z" creationid="User" creationdate="20181121T165026Z">
