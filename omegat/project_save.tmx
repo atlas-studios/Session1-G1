@@ -56,8 +56,8 @@
       <tuv lang="ZH-CN">
         <seg>——“你获得技能书：狂野冲刺。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T082505Z" creationid="User" creationdate="20181121T082505Z">
-        <seg>——"You have obtained the skill book: Wild Charging."</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T160058Z" creationid="User" creationdate="20181121T082505Z">
+        <seg>——"You have obtained the skill book: Crazed Charging."</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="ZH-CN">
         <seg>“停！”抵天之盾看着林杰离去的身影，怒道，“没有水下呼吸药剂擅自下水会被淹死。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T105036Z" creationid="User" creationdate="20181121T100901Z">
-        <seg>"Stop!" Sky Reaching Shield looked as Lin Jie swam away, shouting angrily,"Without the water breathing potion, you would drown if you enter the water without preparation."</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T160351Z" creationid="User" creationdate="20181121T100901Z">
+        <seg>"Stop!" Sky Reaching Shield looked as Lin Jie swam away, shouting angrily and warned them,"Without the water breathing potion, you would drown if you enter the water without preparation."</seg>
       </tuv>
     </tu>
     <tu>
@@ -8803,8 +8803,8 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>技能书：狂野冲刺</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T092457Z" creationid="User" creationdate="20181121T092457Z">
-        <seg>Skill book: Wild Charging</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T160108Z" creationid="User" creationdate="20181121T092457Z">
+        <seg>Skill book: Crazed Charging</seg>
       </tuv>
     </tu>
     <tu>
@@ -13762,8 +13762,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>狂野冲刺！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T093811Z" creationid="User" creationdate="20181121T093811Z">
-        <seg>Wild Charging!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T160139Z" creationid="User" creationdate="20181121T093811Z">
+        <seg>Crazed Charging!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16128,8 +16128,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>追捕林杰的队伍极为庞大，林杰朝预想中的地点飘去。在蹒跚森林中有一处湖泊——牧亡灵湖。学习完美药剂学的关键就在这里！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T100009Z" creationid="User" creationdate="20181121T100009Z">
-        <seg>With all the parties chasing Lin Jie, the number of people was tremendous. Lin Jie floated towards his destination in mind. In Panshan Forest, there was a lake——Shepherd Undead Lake. The key to learning the perfect pharmacy skill is here!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T160258Z" creationid="User" creationdate="20181121T100009Z">
+        <seg>With all the parties chasing Lin Jie, the number of people was tremendous. Lin Jie floated towards his destination in mind. In Panshan Forest, there was a lake——Undead Shepherd Lake. The key to learning the perfect pharmacy skill is here!</seg>
       </tuv>
     </tu>
     <tu>
