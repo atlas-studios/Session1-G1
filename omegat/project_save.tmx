@@ -1986,6 +1986,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“如你所见，我是一个药剂师。”矮人从地上抓起一块烂肉，咔擦一口吞了下去。“还没有问你的名字呢，年轻人，你叫什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T152802Z" creationid="phang" creationdate="20181122T152802Z">
+        <seg>"As you can see, I am a pharmacist." The dwarf took a piece of rotten meat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“如果我是你，就不会这么随意的找地方休息。”一个严肃的女声突然在身后响起，“若是有居心叵测之人，你早就被杀掉级，还会失去所有战利品。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="phang" changedate="20181122T144804Z" creationid="phang" creationdate="20181122T144804Z">
@@ -13958,6 +13966,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T160923Z" creationid="User" creationdate="20181121T160923Z">
         <seg>Looking at the rare elite that has been stuck, Lin Jie continued attacking. This time, he aimed at the rare elite's chest that was rotten and had been pierced through before. He stabbed at that spot continuously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>眼前出现了选项：一，告诉他你的名字。二，拒绝。三，我或许需要一点别的言辞。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T152612Z" creationid="phang" creationdate="20181122T152612Z">
+        <seg>Three options appeared before him: One, reveal your name. Two, refuse. Three, </seg>
       </tuv>
     </tu>
     <tu>
