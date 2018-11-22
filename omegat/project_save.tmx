@@ -96,8 +96,8 @@
       <tuv lang="ZH-CN">
         <seg>——“是否告诉可疑矮人你的名字？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T143920Z" creationid="phang" creationdate="20181122T143920Z">
-        <seg>--"</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T152436Z" creationid="phang" creationdate="20181122T143920Z">
+        <seg>--"Do you reveal your name to the suspicious dwarf?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T091317Z" creationid="User" creationdate="20181120T063929Z">
         <seg>"Player Silver Shield's party has attacked you with malicious intent, you have been granted 20 minutes for self-defense!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>——“药剂师阿拉索对你的好感度提升100.”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T152403Z" creationid="phang" creationdate="20181122T152403Z">
+        <seg>--"Pharmacist Ah Lasuo's fondness towards you increased by 100." </seg>
       </tuv>
     </tu>
     <tu>
