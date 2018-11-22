@@ -10011,8 +10011,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>果然，BOSS最后技能的未命中和她有关！秋远的职业是暗影牧师，牧师中最不受欢迎的职业！这个职业拥有一定治疗能力，但是与研习圣光的神圣牧师和戒律牧师完全无可比拟。也能够利用暗影攻击敌人，暗影伤害低得令人发指，属于绝对的边缘职业。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T174913Z" creationid="phang" creationdate="20181122T164708Z">
-        <seg>As expected, the last skill of BOSS missing him was related to her! Qiu Yuan's job was a dark mage, the least welcomed job among all mages. This job has a certain healing ability, but it is nothing compared to that of the holy mage with their holy light projection or the discipline mage. The dark mage can also use dark magic to attack enemies, but the damage is so low that it makes people boil with anger. As such, the dark mage is considered the absolute most subpar job.    </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T175254Z" creationid="phang" creationdate="20181122T164708Z">
+        <seg>As expected, the last skill of BOSS missing him was related to her! Qiu Yuan's job was a dark mage, the least welcomed job among all mages. This job has a certain healing ability, but it is nothing compared to that of the holy mage with their holy light projection or the discipline mage. The dark mage can also use shadow to attack enemies, but the damage is so low that it makes people boil with anger. As such, the dark mage is considered the absolute most subpar job.    </seg>
       </tuv>
     </tu>
     <tu>
@@ -14380,8 +14380,8 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       <tuv lang="ZH-CN">
         <seg>秋远刚才使用的是暗影牧师最基础的技能暗言术：制造一团暗影攻击敌人，造成固定每秒5点暗影伤害（受技能等级与魔法攻击力影响），持续6秒，当这个技能命中对方眼部，则降低10%命中率。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T175232Z" creationid="phang" creationdate="20181122T175232Z">
-        <seg>The skill that Qiu Yuan used just now was the most basic skill of dark magic Dark Spell: creates a ball of  </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T175914Z" creationid="phang" creationdate="20181122T175232Z">
+        <seg>The skill that Qiu Yuan used just now was the most basic skill of dark magic Dark Spell: Creates a ball of shadow to attack enemies which deals 5 shadow damage per second (subjected to change by the skill level and magic power) and lasts for 6 seconds. When this skill hits the target in the eyes, their accuracy will be decreased by 10%.</seg>
       </tuv>
     </tu>
     <tu>
