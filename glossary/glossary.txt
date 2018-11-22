@@ -1035,3 +1035,4 @@
 冲锋	charge forward
 阿拉索	Ah Lasuo
 无品级	unrankable
+亡语药剂	necromancy potion
