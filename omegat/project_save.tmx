@@ -6766,6 +6766,14 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>另一本技能书，则雕印着淡紫色的花纹，显然不是凡品！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T182218Z" creationid="phang" creationdate="20181122T182218Z">
+        <seg>Another skill book with light purple patterns carved on it, this is definitely not an ordinary item!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>只可惜院门口有个大煞风景的华袍中年人正负着手，背对大门而立。当他听到江逸的脚步声时也不回头，反而重重的冷哼一声。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011817Z" creationid="Joey" creationdate="20180807T152543Z">
@@ -9017,10 +9025,26 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>技能描述：你对30码内的单一目标使用黑暗射线，对其造成10点基础伤害。当目标感染暗言术时，额外造成5点伤害。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T182528Z" creationid="phang" creationdate="20181122T182528Z">
+        <seg>Skill description: Deals 10 basic damage points to a single target within 30 yards using dark ray. When the target is under the dark spell, deals 5 additional damage points.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>技能描述：你提高30%移动速度进行急速冲刺，对第一个碰撞目标造成70%伤害并使其眩晕0.5秒。当你强制取消技能时，冷却时间减少2秒。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T092852Z" creationid="User" creationdate="20181121T092852Z">
         <seg>Skill Description: 30% increase in moving speed when charging forward. Cause 70% damage to the first target which was hit and cause the target to be stunned for 0.5 seconds. When you forcibly cancel the skill, cool down time reduces by 2 seconds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>技能：黑暗之吻</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T182238Z" creationid="phang" creationdate="20181122T182238Z">
+        <seg>Skill: Dark Kiss </seg>
       </tuv>
     </tu>
     <tu>
@@ -9223,6 +9247,14 @@ Despite this, after researching for a single day, no matter what ideas he could 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T092558Z" creationid="User" creationdate="20181121T092558Z">
         <seg>Condition of skill: Action, Mana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>施展要素：魔法值</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T182303Z" creationid="phang" creationdate="20181122T182303Z">
+        <seg>Condition of skill: Magic</seg>
       </tuv>
     </tu>
     <tu>
@@ -9819,8 +9851,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>林杰将稀有精英尸体爆出的东西捡起来，除了足有脑袋大小的【死灵怨念】之外，还有一双靴子和一本技能书，算是大爆了！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T181924Z" creationid="phang" creationdate="20181122T181924Z">
-        <seg>Lin Jie picked up the items dropped by the rare elite corpses</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T182035Z" creationid="phang" creationdate="20181122T181924Z">
+        <seg>Lin Jie picked up the items dropped by the rare elite corpses. Other than the [Grudge of the Undead] that was the size of a brain, there was also a pair of shoes and a skill book. What a lucky loot!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15514,6 +15546,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T174820Z" creationid="User" creationdate="20181121T093012Z">
         <seg>Occupation limitation: Warrior, Rogue, Paladin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>职业限定：牧师</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T182613Z" creationid="phang" creationdate="20181122T182613Z">
+        <seg>Job limit: Mage </seg>
       </tuv>
     </tu>
     <tu>
