@@ -96,8 +96,8 @@
       <tuv lang="ZH-CN">
         <seg>——“是否接受流浪矮人的请求？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T042501Z" creationid="phang" creationdate="20181122T042444Z">
-        <seg>--"Would you like to accept the request of the Wandering Dwarf?" </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T144000Z" creationid="phang" creationdate="20181122T042444Z">
+        <seg>--"Do you accept the request of the Wandering Dwarf?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +866,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180919T073557Z" creationid="Joey" creationdate="20180810T052051Z">
         <seg>"Huh...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“呼……”林杰一屁股坐在地上，取出面包和淡水进食，恢复战斗中损耗殆尽的生命值和魔法值。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T144423Z" creationid="phang" creationdate="20181122T144423Z">
+        <seg>"Phew..." Lin Jie sat on the ground and took out some bread and freshwater to eat, recovering the health points and mana points he had lost from the battle.</seg>
       </tuv>
     </tu>
     <tu>
