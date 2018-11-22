@@ -2834,6 +2834,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“果然。”林杰对于七耳没有给出真实资料的推测更加确定了几分。NPC的智能是非常高的，现在等级小于10级，玩家在回答NPC问题时还有系统引导，当玩家等级高于10级之后，所有问答都需要由玩家自己完成！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T155304Z" creationid="phang" creationdate="20181122T155304Z">
+        <seg>"As expected." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“果然有效！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180816T175503Z" creationid="Joey" creationdate="20180816T175503Z">
@@ -6432,8 +6440,8 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
       <tuv lang="ZH-CN">
         <seg>初级生命值恢复药剂能够瞬回100点生命值，药剂冷却时间为2分钟，是救命的东西。而大量经验值让林杰的经验条直窜顶端，即将升级。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T154853Z" creationid="phang" creationdate="20181122T154853Z">
-        <seg>Although there is a cooling down period of two minutes every use, the elementary health recovery potion is a life-saving item as it can instantly recover 100 health points. Also, the large amount of experience gained  </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T155525Z" creationid="phang" creationdate="20181122T154853Z">
+        <seg>Although there is a cool down period of two minutes every use, the elementary health recovery potion is a life-saving item as it can instantly recover 100 health points. Also, the large amount of experience gained  </seg>
       </tuv>
     </tu>
     <tu>
@@ -14012,8 +14020,8 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       <tuv lang="ZH-CN">
         <seg>眼前出现了选项：一，告诉他你的名字。二，拒绝。三，我或许需要一点别的言辞。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T152612Z" creationid="phang" creationdate="20181122T152612Z">
-        <seg>Three options appeared before him: One, reveal your name. Two, refuse. Three, </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T155410Z" creationid="phang" creationdate="20181122T152612Z">
+        <seg>Three options appeared before him: One, reveal your name. Two, refuse. Three, I need </seg>
       </tuv>
     </tu>
     <tu>
