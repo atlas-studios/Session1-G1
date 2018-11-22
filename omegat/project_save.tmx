@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“是否接受药剂师阿拉索的请求？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T143634Z" creationid="phang" creationdate="20181122T143634Z">
+        <seg>--"Would you like to accept the the pharmacist Ah Lasuo's request?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T091317Z" creationid="User" creationdate="20181120T063929Z">
@@ -6758,6 +6766,14 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T082141Z" creationid="User" creationdate="20181121T082141Z">
         <seg>Click…The treasure chest opened with that sound.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>咔擦——</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T143544Z" creationid="phang" creationdate="20181122T143544Z">
+        <seg>Crack--</seg>
       </tuv>
     </tu>
     <tu>
