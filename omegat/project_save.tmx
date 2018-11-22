@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你使用亡语药剂成功奴役了【蹒跚的尸体】。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T174814Z" creationid="User" creationdate="20181122T174814Z">
+        <seg>——"You have successfully used necromancy potion to enslave【Corpse of Panshan】."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“你击杀了恶意攻击者，获得1点光明联盟声望。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T165946Z" creationid="User" creationdate="20181120T080051Z">
@@ -4434,8 +4442,8 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       <tuv lang="ZH-CN">
         <seg>一具干枯的骸骨站起来，被林杰一把推到身前，抗住武士精英的伤害！林杰破釜沉舟，利用亡语药剂的效果成功拯救了自己！有了奴仆抗伤害，林杰开始以奴仆进行卡位，对武士精英进行输出！每当精英攻击，伤害总是落到奴仆身上！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181122T174127Z" creationid="User" creationdate="20181122T174127Z">
-        <seg>A shriveled skeleton stood up and was pushed in front of Lin Jie to take the damage from the elite warrior!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T174651Z" creationid="User" creationdate="20181122T174127Z">
+        <seg>A shriveled skeleton stood up and was pushed in front of Lin Jie to take the damage from the elite samurai! Lin Jie risked it all and used the necromancy potion's effect to successfully save himself! With a servant to take the damage for them, Lin Jie started to use the servant to carry out precise positioning in helping to block the elite samurai. This would allow them to safely deal damage to the elite warrior! Every time the elite samurai attacks, the servant would always be the one to receive the damage! </seg>
       </tuv>
     </tu>
     <tu>
@@ -7576,6 +7584,14 @@ with the time that the elixir medical efficacy lasted also having extended up to
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>奴仆被劈成了碎渣，而林杰的剑气也捅进武士精英的胸口，将其击杀！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T174545Z" creationid="User" creationdate="20181122T174545Z">
+        <seg>The servant was slashed to pieces, but at the same time, Lin Jie's sword aura also stabbed into the chest of the elite samurai, killing it!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她内心的傲气被激起了，双腿一点，速度加快几分，再次运转幻灵手朝江逸点去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T110718Z" creationid="Joey" creationdate="20180926T110718Z">
@@ -9287,8 +9303,8 @@ Despite this, after researching for a single day, no matter what ideas he could 
       <tuv lang="ZH-CN">
         <seg>时间慢慢推移，武士精英的生命值持续下降。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181122T174001Z" creationid="User" creationdate="20181122T174001Z">
-        <seg>Time slowly passed, elite warrior's health decreased constantly.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T174657Z" creationid="User" creationdate="20181122T174001Z">
+        <seg>Time slowly passed, the elite samurai's health decreased constantly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10257,8 +10273,8 @@ He then snorted coldly. "Jiang Song, you can get out of my sight now! You no lon
       <tuv lang="ZH-CN">
         <seg>武士精英爆出5份骨粉，3枚死灵残念。林杰将背包打开，大喜过望：30份死灵残念收集完毕！完美药剂学要到手了！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181122T173937Z" creationid="User" creationdate="20181122T173716Z">
-        <seg>Elite warrior dropped five sets of bone ash and three undead souls, Lin Jie opened his back pack, elated to see: gathering of 30 undead souls was complete! Perfect pharmacy skill is just in reach!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T174457Z" creationid="User" creationdate="20181122T173716Z">
+        <seg>Elite samurai dropped five sets of bone ash and three undead souls, Lin Jie opened his back pack, elated to see: gathering of 30 undead souls was complete! Perfect pharmacy skill is just in reach!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14294,6 +14310,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181122T163810Z" creationid="phang" creationdate="20181122T152612Z">
         <seg>Three options appeared before him: One, reveal your name. Two, refuse. Three, maybe I need some other answer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>眼看死亡在即，林杰狠狠一咬牙，将亡语药剂洒在地上！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T174905Z" creationid="User" creationdate="20181122T174905Z">
+        <seg>With death in sight, Lin Jie clenched his teeth firmly, pouring the necromancy potion onto the ground!</seg>
       </tuv>
     </tu>
     <tu>
