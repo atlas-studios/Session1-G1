@@ -9835,8 +9835,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>林杰看着大口咀嚼腐肉的矮人，想起一件事情：在七耳公布矮人存在之后，暗裔骑士团曾经派人来到此地，紧接着这位矮人NPC便消失了，人们推测暗裔骑士团很可能完成了某个隐藏任务。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181122T165859Z" creationid="User" creationdate="20181122T165859Z">
-        <seg>Lin Jie looked at the dwarf who was chewing the meat in large mouthfuls and thought of a event: After Qi Er announced the existence of the dwarf, () sent people to this place before. Immediately following up, this dwarf NPC disappeared. People then speculate that it was very likely() completed some kind of hidden mission. </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T170224Z" creationid="User" creationdate="20181122T165859Z">
+        <seg>Lin Jie looked at the dwarf who was chewing the meat in large mouthfuls and thought of a event: After Qi Er announced the existence of the dwarf, Dark Descent Knights sent people to this place before. Immediately following up, this dwarf NPC disappeared. People then speculate that it was very likely Dark Descent Knights completed some kind of hidden mission. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9931,8 +9931,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>林杰选择了三，出声道，“名字，不过是生前的一个代号罢了，死之后还不是变成这幅模样。既然如此，问名字又有什么意义？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181122T170158Z" creationid="User" creationdate="20181122T170158Z">
-        <seg>Lin Jie chose option three and said,"Name, is just but a </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T170434Z" creationid="User" creationdate="20181122T170158Z">
+        <seg>Lin Jie chose option three and said,"Name, is just but a code. After one dies, one would just look like these corpses. In this case, what is the significance in asking for a name?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14238,6 +14238,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181122T163810Z" creationid="phang" creationdate="20181122T152612Z">
         <seg>Three options appeared before him: One, reveal your name. Two, refuse. Three, maybe I need some other answer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>矮人哈哈大笑，抓起一块腐肉递到林杰面前，“好！我有点喜欢你了。既然你看的那么清楚，那吃一块腐肉肯定不难吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T170728Z" creationid="User" creationdate="20181122T170728Z">
+        <seg>The dwarf laughed heartily and grabbed a piece of rotten meat, handing it over to Lin Jie,"Good! I have taken a liking to you. Since you have seen it so clearly, then eating a piece of rotten meat is not so difficult, right?</seg>
       </tuv>
     </tu>
     <tu>
