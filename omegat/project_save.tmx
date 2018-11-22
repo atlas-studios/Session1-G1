@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你获得食人鱼鳃。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T041943Z" creationid="phang" creationdate="20181122T041943Z">
+        <seg>--"You've received a piranha gill."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>——“你获得食人鱼鳃。”……林杰看了一眼背包，足足101份鱼鳃，应该够喂那个家伙了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T043645Z" creationid="phang" creationdate="20181122T042053Z">
+        <seg>--"You've received a piranha gill." ....Lin Jie glanced at the bag filled with 101 pieces of fish gills. This should be enough to feed that fellow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“你进入牧亡灵湖彼岸。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="phang" changedate="20181121T154125Z" creationid="phang" creationdate="20181121T141153Z">
@@ -70,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“是否接受流浪矮人的请求？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042501Z" creationid="phang" creationdate="20181122T042444Z">
+        <seg>--"Would you like to accept the request of the Wandering Dwarf?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T091317Z" creationid="User" creationdate="20181120T063929Z">
         <seg>"Player Silver Shield's party has attacked you with malicious intent, you have been granted 20 minutes for self-defense!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>——任务提示：流浪矮人似乎对生者的食物不感兴趣，牧亡灵湖中似乎有一些食物，找到100份交给流浪矮人。你拥有5分钟的时间。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T043723Z" creationid="phang" creationdate="20181122T042942Z">
+        <seg>--Quest notice: The Wandering Dwarf seems to have to interest in the player's food. There seems to be some food in the Undead Shepherd Lake, find 100 pieces to give to the Wandering Dwarf. You have five minutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“呼，谢谢你。”矮人一股脑吞下一百个鱼鳃，艰难的坐起来，笑道，“要不是你，我就已经饿死了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T113540Z" creationid="phang" creationdate="20181122T113540Z">
+        <seg>"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“和他们拼了？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180808T073611Z" creationid="Joey" creationdate="20180808T073611Z">
@@ -1398,6 +1438,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T012329Z" creationid="Joey" creationdate="20180807T153359Z">
         <seg>Shit! I'm about to suffer a Qi deviation…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“啪——”流浪矮人一巴掌拍掉面包，喊道，“我不吃这些！给我一点能吃的！……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042759Z" creationid="phang" creationdate="20181122T042759Z">
+        <seg>"Pow--" The Wandering Dwarf slapped away bread and shouted, "I don't eat these! Give me something I can actually eat!..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +2506,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“扑腾……扑腾……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T041810Z" creationid="phang" creationdate="20181122T041810Z">
+        <seg>"Thud....thud...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“扑通！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180807T153310Z" creationid="Joey" creationdate="20180807T153310Z">
@@ -2550,6 +2606,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181029T151546Z" creationid="tianqi" creationdate="20181029T151546Z">
         <seg>"Wrestling Hand!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“救救我……给我食物……求求你……”流浪矮人眼睛突兀睁开，虚弱的说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042510Z" creationid="phang" creationdate="20181122T042426Z">
+        <seg>"Save me.... I need food.... Please I'm begging you..." The Wandering Dwarf flew open in a sudden and said weakly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3278,6 +3342,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“给，吃吧。”林杰将鱼鳃全部交给矮人，他张开嘴唔唔的**着，示意林杰喂他。林杰抓着鱼鳃，丢入矮人的嘴中。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T113519Z" creationid="phang" creationdate="20181122T113519Z">
+        <seg>"Here, eat this." Lin Jie gave all of the fish gills to the dwarf. The dwarf opened his mouth_____, gesturing for him to feed him. Lin Jie grabbed the fish gills and tossed them into the dwarf's mouth. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“缠丝手！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180814T191951Z" creationid="Joey" creationdate="20180814T191951Z">
@@ -3618,6 +3690,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T174511Z" creationid="tianqi" creationdate="20181024T174511Z">
         <seg>"Could such a bizarre thing really happen? Is it due to the black essence force?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这东西似乎比鲜肉分量小很多……”林杰看着半掌大小的鱼鳃，又看了一眼眼巴巴等待林杰扔烂肉的食人鱼，咧嘴一笑，将地面刨下半码，把所有腐肉都丢了出来！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T041744Z" creationid="phang" creationdate="20181122T041153Z">
+        <seg>"These kind of look much smaller than fresh meat...." Lin Jie looked at the fish gills that were only around half the size of his palm, then turned to the wide-eyed piranhas that were waiting for him to toss the rotting flesh of the piranhas into the water. Grinning, Lin Jie ____, and threw all the rotting meat out! </seg>
       </tuv>
     </tu>
     <tu>
@@ -7531,6 +7611,14 @@ with the time that the elixir medical efficacy lasted also having extended up to
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>实际上，食人鱼的嘴巴占了三分之二个身体，满是利齿的鱼唇自然无法食用，鱼尾更是蕴含剧毒，能够进食的部分只有恶心的鱼鳃了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T041318Z" creationid="phang" creationdate="20181122T040704Z">
+        <seg>As a matter of fact, the mouths of piranhas occupy two-third of their bodies, and these fish lips filled with sharp teeth are naturally inedible. Furthermore, the tails of the fish contained deadly poison. As such, the only remaining part of the fish that was edible were the disgusting gills. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>富贵险中求！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180828T085319Z" creationid="USER" creationdate="20180810T033823Z">
@@ -8689,6 +8777,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>提着满包裹的战利品，林杰走到流浪矮人面前。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042518Z" creationid="phang" creationdate="20181122T042120Z">
+        <seg>Carrying the bag containing his battle items, Lin Jie headed towards the Wandering Dwarf and stood in front of him.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>摇了摇头，江逸强迫自己不去多想，开始数起数来。荣管事只给了他两个时辰，要是不能及时清点完毕，回去挨骂事小，要被扣掉月例那就太严重了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011940Z" creationid="Joey" creationdate="20180807T152933Z">
@@ -8733,6 +8829,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005156Z" creationid="USER" creationdate="20180803T025500Z">
         <seg>Countless skeleton giants, zombies, zombie-beasts, and yin soldiers crowded the space, blotting out the sky and moon. Grey runic patterns sparkled continuously from their bodies—light and shadows blurred. The spectacle was so grand and divine that even the Heavenly Court city, dark and silent that night, paled in comparison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>数百条食人鱼弹跳上岸，疯狂地啃食着，然后在几秒后失去生命。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T041912Z" creationid="phang" creationdate="20181122T041912Z">
+        <seg>Hundreds of piranhas jumped onto the bank and ate the meat in a frenzy, before losing their lives a few seconds after.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8947,6 +9051,14 @@ Despite this, after researching for a single day, no matter what ideas he could 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T081056Z" creationid="Joey" creationdate="20180916T081056Z">
         <seg>Was this all a coincidence? Or was this kid simply trying to play dumb and weak? Was his identity, in truth, that of a powerful martial artist? Was he here to pass himself off as a sparring partner? Did he inadvertently guide and assist Young Mistress Yi to attain the Phenomenal Stage in her martial arts skills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>是！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042544Z" creationid="phang" creationdate="20181122T042447Z">
+        <seg>Yes!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9217,6 +9329,22 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰一喜，用长剑将食人鱼的鱼鳃割下来，扔进背包。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T040343Z" creationid="phang" creationdate="20181122T040343Z">
+        <seg>Lin Jie was in delight. Using his long sword, he carved out the gills of the piranhas and tossed them into his bag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰一愣，顿时明白了！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T112606Z" creationid="phang" creationdate="20181122T112256Z">
+        <seg>Lin Jie was shocked, but he understood immediately!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰不由一阵恶寒，将烂肉捏在手中，荡入水面。血腥味与肉味在牧亡灵湖散开，徘徊在水中的食人鱼迫不及待的冲过来，其中一只一口咬住烂肉，利齿一扯，竟是将林杰的手指也划开一道伤口。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="phang" changedate="20181121T175903Z" creationid="phang" creationdate="20181121T175433Z">
@@ -9321,10 +9449,26 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰如法炮制，得到10份食人鱼的鱼鳃。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T043700Z" creationid="phang" creationdate="20181122T041028Z">
+        <seg>Lin Jie prepared the meat as needed and received 10 pieces of piranha gills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰心思何等缜密？在他武器被卡住的瞬间就决定了战斗方法，利用大树进行卡位击杀！不仅如此，林杰特意用自己充满血肉气息香喷喷的脑袋吸引稀有精英的武器轨迹，使其尽量避开被砍伐的部分！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T173103Z" creationid="User" creationdate="20181121T160658Z">
         <seg>How thorough are Lin Jie's thoughts? The moment he saw its weapon being stuck in the tree, he had decided on his battle tactics, to use the huge trees as obstacles and kill it with precise positioning! Not only so, Lin Jie especially used his "fragrant" head that was filled with the nice smell of human flesh and blood to attract the rare undead. This would allow him to control the trajectory of its weapon, trying hard to make the rare elite avoid the spots that have already been cut once!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰想了想，掏出面包送到他嘴边。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042639Z" creationid="phang" creationdate="20181122T042540Z">
+        <seg>Lin Jie pondered, before retrieving bread from his bag and delivering it to the mouth of the Wandering Dwarf. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13536,6 +13680,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>由于喊出这句话，矮人的生命值下降了一半！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042850Z" creationid="phang" creationdate="20181122T042850Z">
+        <seg>As he screamed out these words, the health of the dwarf dropped by half!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>由于是正午时分，风月楼内没有一个客人，江逸走进风月楼倒是看到了那日的管事，除了这管事外他还意外的见到了一个人，一个在武殿内见过两次的大家族公子。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T152928Z" creationid="Joey" creationdate="20180926T152928Z">
@@ -14960,6 +15112,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>药王七耳根本没有将正确的任务流程放到论坛上！若是玩家能够再次执行这个任务，傻乎乎的照他的流程带上鲜肉喂给矮人，就会发现矮人根本不吃这些！当费尽心力搞到食人鱼时，矮人早就已经饿死了！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T113032Z" creationid="phang" creationdate="20181122T112558Z">
+        <seg>The Potion King Qi Er never did post the correct information about his quest journey on the forum! If players could repeat this quest, they would have stupidly followed his journey and brought fresh meat for the Wandering Dwarf, only to realise that the dwarf does not even eat them! Even if they spent all their effort to catch the piranhas, the dwarf would have already starved to death. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>血液在湖泊中散开，上百条食人鱼激动的盘旋在水面之下，恨不得长了腿般冲上岸将林杰分而食之！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="phang" changedate="20181121T180120Z" creationid="phang" creationdate="20181121T175638Z">
@@ -16192,6 +16352,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>阴险！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T112149Z" creationid="phang" creationdate="20181122T112149Z">
+        <seg>How scheming!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>附加：羽落术，你将只有羽毛的重量，允许进行短暂的漂浮。冷却时间10秒。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T092858Z" creationid="User" creationdate="20181121T083749Z">
@@ -16680,6 +16848,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>－120！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T042804Z" creationid="phang" creationdate="20181122T042804Z">
+        <seg>-120!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>－12！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T163958Z" creationid="User" creationdate="20181121T163958Z">
@@ -16708,6 +16884,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T173122Z" creationid="User" creationdate="20181121T161005Z">
         <seg>－20！(Weak Point Attack, Critical Hit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－20！－20！……失去了水的滋润，食人鱼的生命值快速下降，很快就成了死鱼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T040102Z" creationid="phang" creationdate="20181122T040102Z">
+        <seg>-20! -20! ...Losing the moisture from the water, the health of the piranhas dropped rapidly and they soon became dead fish.</seg>
       </tuv>
     </tu>
     <tu>
