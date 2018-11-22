@@ -1996,8 +1996,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“如你所见，我是一个药剂师。”矮人从地上抓起一块烂肉，咔擦一口吞了下去。“还没有问你的名字呢，年轻人，你叫什么？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T152802Z" creationid="phang" creationdate="20181122T152802Z">
-        <seg>"As you can see, I am a pharmacist." The dwarf took a piece of rotten meat</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T155000Z" creationid="phang" creationdate="20181122T152802Z">
+        <seg>"As you can see, I am a pharmacist." The dwarf took a piece of rotten meat and gulped it down in one bite. "I have not asked for your name. Young man, what's your name?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,6 +4244,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T170710Z" creationid="User" creationdate="20181121T112009Z">
         <seg>【Revival Potion】:Number of remaining usages 100/100. Allows you to revive a dead corpse, this effect is unusable for living creatures above level 20. When a corpse revives, there is 1% chance it will be converted into your servant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>【初级特效生命值药剂】：使你恢复120点生命值，并临时增加60点生命值上限，持续10分钟。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T155139Z" creationid="phang" creationdate="20181122T155139Z">
+        <seg>[Elementary special effect health potion]: Recovers 120 health points, and temporarily increase maximum health by 60 points which lasts for 10 minutes.</seg>
       </tuv>
     </tu>
     <tu>
