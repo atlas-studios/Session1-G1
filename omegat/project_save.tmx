@@ -104,8 +104,8 @@
       <tuv lang="ZH-CN">
         <seg>——“是否告诉可疑矮人你的名字？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T152436Z" creationid="phang" creationdate="20181122T143920Z">
-        <seg>--"Do you reveal your name to the suspicious dwarf?"</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T163705Z" creationid="phang" creationdate="20181122T143920Z">
+        <seg>--"Do you choose to reveal your name to the suspicious dwarf?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14052,8 +14052,8 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       <tuv lang="ZH-CN">
         <seg>眼前出现了选项：一，告诉他你的名字。二，拒绝。三，我或许需要一点别的言辞。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T155410Z" creationid="phang" creationdate="20181122T152612Z">
-        <seg>Three options appeared before him: One, reveal your name. Two, refuse. Three, I need </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T163810Z" creationid="phang" creationdate="20181122T152612Z">
+        <seg>Three options appeared before him: One, reveal your name. Two, refuse. Three, maybe I need some other answer.</seg>
       </tuv>
     </tu>
     <tu>
