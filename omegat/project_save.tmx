@@ -72,8 +72,8 @@
       <tuv lang="ZH-CN">
         <seg>——“你获得食人鱼鳃。”……林杰看了一眼背包，足足101份鱼鳃，应该够喂那个家伙了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T043645Z" creationid="phang" creationdate="20181122T042053Z">
-        <seg>--"You've received a piranha gill." ....Lin Jie glanced at the bag filled with 101 pieces of fish gills. This should be enough to feed that fellow.</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T144920Z" creationid="phang" creationdate="20181122T042053Z">
+        <seg>--"You've received a piranha gill." ....Lin Jie glanced at the bag with 101 pieces of fish gills. This should be enough to feed that fellow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3786,6 +3786,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20180812T114459Z" creationid="USER" creationdate="20180812T113958Z">
         <seg>"This is purple gold?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这是亡语药剂，用这个复活死者的尸体，击败他们，将死者残念带给我。”阿拉索顿了顿，补上一句，“我会给你足够的奖励。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T151320Z" creationid="phang" creationdate="20181122T151320Z">
+        <seg>"This is</seg>
       </tuv>
     </tu>
     <tu>
@@ -8827,8 +8835,8 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>提着满包裹的战利品，林杰走到流浪矮人面前。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T042518Z" creationid="phang" creationdate="20181122T042120Z">
-        <seg>Carrying the bag containing his battle items, Lin Jie headed towards the Wandering Dwarf and stood in front of him.  </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T144843Z" creationid="phang" creationdate="20181122T042120Z">
+        <seg>Carrying the bag filled with his loots, Lin Jie headed towards the Wandering Dwarf and stood in front of him.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -9533,6 +9541,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181121T101847Z" creationid="User" creationdate="20181121T071957Z">
         <seg>He moved aside the tree leaves blocking his view, only to see that the place below had already been surrounded by Sky Reaching Shield's people! Unfortunately for them, they did not have any means to climb up the tree so they could only stand there anxiously, unable to do anything.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰欣然接受。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T144928Z" creationid="phang" creationdate="20181122T144928Z">
+        <seg>Lin Jie accepted with pleasure.</seg>
       </tuv>
     </tu>
     <tu>
