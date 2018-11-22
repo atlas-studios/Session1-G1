@@ -2348,8 +2348,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“年轻人，我需要一些材料，你能不能帮我？”阿拉索笑问道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T143911Z" creationid="phang" creationdate="20181122T143911Z">
-        <seg>"Young man, I need some ingredients. Can you help me?" Ah Lasuo asked smilingly.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T165453Z" creationid="phang" creationdate="20181122T143911Z">
+        <seg>"Young man, I need some ingredients. Could you help me?" Ah Lasuo asked smilingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7480,6 +7480,14 @@ with the time that the elixir medical efficacy lasted also having extended up to
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>天灾是什么？并没有确切的定义，在普通人眼中，亡灵就是天灾！作为亡灵魔法和黑暗魔法的研究者，巫妖遭受到了大陆居民的驱逐，被驱赶到了大陆的角落。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T164810Z" creationid="User" creationdate="20181122T164810Z">
+        <seg>What is natural disaster? There is no exact definition. In the eyes of a normal person, undeads are the natural disasters! As the researchers of necromancy and dark magic, Liches were driven out by the continents' inhabitants, expelled to the edge of the continent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>天界，天庭。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T004547Z" creationid="cktal" creationdate="20180802T015516Z">
@@ -9801,6 +9809,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰看着大口咀嚼腐肉的矮人，想起一件事情：在七耳公布矮人存在之后，暗裔骑士团曾经派人来到此地，紧接着这位矮人NPC便消失了，人们推测暗裔骑士团很可能完成了某个隐藏任务。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T165859Z" creationid="User" creationdate="20181122T165859Z">
+        <seg>Lin Jie looked at the dwarf who was chewing the meat in large mouthfuls and thought of a event: After Qi Er announced the existence of the dwarf, () sent people to this place before. Immediately following up, this dwarf NPC disappeared. People then speculate that it was very likely() completed some kind of hidden mission. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰看着手中的亡语药剂若有所思，亡语药剂有1%的几率使目标复活后成为自己的奴仆！但是这个士兵已经没有脑子和心脏，奴役成功率至少提高50%！若是自己是学习黑暗法术的术士或者暗影牧师，成功率甚至能够达到100%！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181122T161211Z" creationid="User" creationdate="20181121T141606Z">
@@ -9885,6 +9901,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181120T072257Z" creationid="User" creationdate="20181120T072257Z">
         <seg>Lin Jie continued stabbing, Silver Shield's health is already in the red zone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰选择了三，出声道，“名字，不过是生前的一个代号罢了，死之后还不是变成这幅模样。既然如此，问名字又有什么意义？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T170158Z" creationid="User" creationdate="20181122T170158Z">
+        <seg>Lin Jie chose option three and said,"Name, is just but a </seg>
       </tuv>
     </tu>
     <tu>
@@ -15238,10 +15262,26 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>而恶魔天灾爆发，玩家和NPC大批量死亡，被迫退守擎天峰地界才得以生存，这群被无数人排挤的巫妖却突然出现，作为这一战的主力为所有人挡下了天灾的进攻，并为此付出了巨大的代价。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T165235Z" creationid="User" creationdate="20181122T165235Z">
+        <seg>When the demon disaster erupted, players and NPC died in large numbers. They were forced to retreat and defend the Heaven Peak Boundary to survive. This was when this group of liches that were banished by numerous people suddenly appeared! They became the main force in stopping the demon's attack, and paid a huge price in the process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>而承受腐蚀伤害超过20次时，就会获得BUFF【腐蚀免疫】，30秒内免疫牧亡灵湖的伤害，利用这30秒之间就可以游到对岸了。不过有羽落宝石的帮助，林杰倒是省下不少时间。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181122T162047Z" creationid="phang" creationdate="20181121T155929Z">
         <seg>Enduring the damage from the lake for over 20 times would allow the player to receive BUFF [Corrosion Immunity], which negates the damage from the Undead Shepherd Lake for 30 seconds. By making use of this 30 seconds of immunity, players would be able to swim to the other side of the bank. However, Lin Jie did not have much time remaining after using the falling feather-like gemstone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>而接下来的资料片，暗裔骑士团中有一人异军突起！会不会与眼前NPC有关？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T170001Z" creationid="User" creationdate="20181122T170001Z">
+        <seg>Subsequently, in the next update, there was a person who rose into power! Is it possible that it has something to do with the NPC in front of his eyes?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16722,8 +16762,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>阿拉索，就是巫妖之主！难怪，流浪矮人在发布了任务之后会消失，难怪那个资料片出现之后有一个人异军突起，原来如此！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T152040Z" creationid="phang" creationdate="20181122T152040Z">
-        <seg>Ah Lasuo is the Wizard King! No wonder the Wandering Dwarf would disappear after giving out the quest. This also explains why a person would suddenly appear after the  </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T165352Z" creationid="phang" creationdate="20181122T152040Z">
+        <seg>Ah Lasuo is the Lord of the Lich! No wonder the Wandering Dwarf would disappear after giving out the quest. This also explains why a person would suddenly rise into power, so this was it!</seg>
       </tuv>
     </tu>
     <tu>
