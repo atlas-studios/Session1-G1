@@ -6942,6 +6942,14 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>后续任务需要收集50份骨粉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T181626Z" creationid="phang" creationdate="20181122T181626Z">
+        <seg>The follow-up quest would require the collection of 50 portions of bone meal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>后院很宽敞，也有几个老妈子正对着木盆洗着衣物，却没有小奴的身影。不过他看到那几个老妈子神色明显不对，脸上有些畏惧之色，目光正不断的对着后院角落内的一个屋子内扫去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T080020Z" creationid="USER" creationdate="20180807T110418Z">
@@ -14398,6 +14406,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="phang" changedate="20181122T175914Z" creationid="phang" creationdate="20181122T175232Z">
         <seg>The skill that Qiu Yuan used just now was the most basic skill of dark magic Dark Spell: Creates a ball of shadow to attack enemies which deals 5 shadow damage per second (subjected to change by the skill level and magic power) and lasts for 6 seconds. When this skill hits the target in the eyes, their accuracy will be decreased by 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>秋远既然手握幽影法杖并且出现在这里，想必是接受了魅影之心的后续任务——收集骨粉！骨粉的价格虽然不高，但是爆率极低，并且只有在这里才能够出产。在接受任务之后，NPC会将玩家传送到牧亡灵湖岸边，不过这里并不刷新怪物，所以需要寻找到四个符文阵才能够暂时拥有复活尸体的能力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181122T181559Z" creationid="phang" creationdate="20181122T181542Z">
+        <seg>Qiu Yuan showing up here with the mirage staff in hand must mean that she had accepted the follow-up quest of the Goblin's Heart quest- to collect bone meal! Although the price of bone meal is not high, the drop rate is very low. Furthermore, this is the only place where bone meal could be obtained. After accepting the quest, NPC will transport the player to the bank of the Undead Shepherd Lake. However, since monsters do not spawn here, the player would have to search for four runes before being able to use the ability to revive dead bodies temporarily. </seg>
       </tuv>
     </tu>
     <tu>
