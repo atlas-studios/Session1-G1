@@ -144,8 +144,8 @@
       <tuv lang="ZH-CN">
         <seg>——任务提示：流浪矮人似乎对生者的食物不感兴趣，牧亡灵湖中似乎有一些食物，找到100份交给流浪矮人。你拥有5分钟的时间。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T043723Z" creationid="phang" creationdate="20181122T042942Z">
-        <seg>--Quest notice: The Wandering Dwarf seems to have to interest in the player's food. There seems to be some food in the Undead Shepherd Lake, find 100 pieces to give to the Wandering Dwarf. You have five minutes.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T163105Z" creationid="phang" creationdate="20181122T042942Z">
+        <seg>--Quest notice: The Wandering Dwarf seems to have no interest in the food for the living. There seems to be some food in the Undead Shepherd Lake, find 100 pieces to give to the Wandering Dwarf. You have five minutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2700,8 +2700,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“救救我……给我食物……求求你……”流浪矮人眼睛突兀睁开，虚弱的说道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T042510Z" creationid="phang" creationdate="20181122T042426Z">
-        <seg>"Save me.... I need food.... Please I'm begging you..." The Wandering Dwarf flew open in a sudden and said weakly.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T162940Z" creationid="phang" creationdate="20181122T042426Z">
+        <seg>"Save me.... I need food.... Please I'm begging you..." The Wandering Dwarf's eyes flew open in a sudden and said weakly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7757,8 +7757,8 @@ with the time that the elixir medical efficacy lasted also having extended up to
       <tuv lang="ZH-CN">
         <seg>实际上，食人鱼的嘴巴占了三分之二个身体，满是利齿的鱼唇自然无法食用，鱼尾更是蕴含剧毒，能够进食的部分只有恶心的鱼鳃了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T041318Z" creationid="phang" creationdate="20181122T040704Z">
-        <seg>As a matter of fact, the mouths of piranhas occupy two-third of their bodies, and these fish lips filled with sharp teeth are naturally inedible. Furthermore, the tails of the fish contained deadly poison. As such, the only remaining part of the fish that was edible were the disgusting gills. </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T162850Z" creationid="phang" creationdate="20181122T040704Z">
+        <seg>As a matter of fact, the mouths of piranhas occupy two-third of their bodies, and these fish lips filled with sharp teeth were naturally inedible. Furthermore, the tails of the fish contained deadly poison. As such, the only remaining part of the fish that was edible were the disgusting gills. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8923,8 +8923,8 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>提着满包裹的战利品，林杰走到流浪矮人面前。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T144843Z" creationid="phang" creationdate="20181122T042120Z">
-        <seg>Carrying the bag filled with his loots, Lin Jie headed towards the Wandering Dwarf and stood in front of him.  </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T162912Z" creationid="phang" creationdate="20181122T042120Z">
+        <seg>Carrying the bag filled with his loots, Lin Jie headed towards the Wandering Dwarf and stood in front of him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15354,8 +15354,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>被饥饿折磨的食人鱼忍受不住腐肉的诱.惑，扑腾从水中跳上来，一口将烂肉吞了下去。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T152956Z" creationid="phang" creationdate="20181121T180649Z">
-        <seg>The starved piranhas could not resist the temptations of the rotting flesh. They flopped out of the water and onto the bank, swallowing the rotten flesh in one bite.  </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T162737Z" creationid="phang" creationdate="20181121T180649Z">
+        <seg>The starved piranhas could not resist the temptations of the rotting flesh. They flopped out of the water and onto the bank, swallowing the rotten flesh in one bite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17098,8 +17098,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>－20！－20！……失去了水的滋润，食人鱼的生命值快速下降，很快就成了死鱼。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T040102Z" creationid="phang" creationdate="20181122T040102Z">
-        <seg>-20! -20! ...Losing the moisture from the water, the health of the piranhas dropped rapidly and they soon became dead fish.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T162759Z" creationid="phang" creationdate="20181122T040102Z">
+        <seg>-20! -20! ...Losing the moisture from the water, the health of the piranhas dropped rapidly and they soon became dead fishes.</seg>
       </tuv>
     </tu>
     <tu>
