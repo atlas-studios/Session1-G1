@@ -3848,8 +3848,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“这是亡语药剂，用这个复活死者的尸体，击败他们，将死者残念带给我。”阿拉索顿了顿，补上一句，“我会给你足够的奖励。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T151320Z" creationid="phang" creationdate="20181122T151320Z">
-        <seg>"This is</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T164445Z" creationid="phang" creationdate="20181122T151320Z">
+        <seg>"This is a necromancy potion. Use this to revive the dead's corpse. Defeat them and bring me the undead souls." Ah Lasuo paused for a moment and continued,"I will give you adequate rewards."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9709,6 +9709,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       </tuv>
       <tuv lang="EN-US" changeid="phang" changedate="20181121T151027Z" creationid="User" creationdate="20181120T022940Z">
         <seg>Lin Jie's eyes looked on with a cold stare. How long has it been since the game started? And already there are people monopolizing the farming grounds?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰瞪大了眼睛，阿拉索，这个人是巫妖之主阿拉索！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T164542Z" creationid="User" creationdate="20181122T164542Z">
+        <seg>Lin Jie's eyes wided in disbelief. Ah Lasuo, this person is the Lord of the Lich Ah Lasuo!</seg>
       </tuv>
     </tu>
     <tu>
