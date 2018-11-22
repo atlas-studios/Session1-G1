@@ -1036,3 +1036,4 @@
 阿拉索	Ah Lasuo
 无品级	unrankable
 亡语药剂	necromancy potion
+秋远	Qiu Yuan
