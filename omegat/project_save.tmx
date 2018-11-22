@@ -6392,8 +6392,8 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
       <tuv lang="ZH-CN">
         <seg>冲刺类技能，是近战必备技能。它给战士这种板甲慢速职业提供了一个很好的加速技能，配合冲锋使用效果更佳。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T170418Z" creationid="User" creationdate="20181121T093705Z">
-        <seg>Charging skills are essential for close combats. It provides warriors who are slow due to their plated occupation a very good acceleration skill. If used with the charge forward skill, the effects are even better.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T184048Z" creationid="User" creationdate="20181121T093705Z">
+        <seg>Charging skills are essential for close combats. It provides warriors who are slow due to their armor class with a very good acceleration skill. If used with the charge forward skill, the effects are amplified.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8495,8 +8495,8 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       <tuv lang="ZH-CN">
         <seg>当林杰将羽落宝石装备到胸口时，抵天之盾的气息已经近了！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T093805Z" creationid="User" creationdate="20181121T093805Z">
-        <seg>Just when Lin Jie equipped the falling feather-like gemstone to his chest, Sky Reaching Shield's presence is already near!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T184216Z" creationid="User" creationdate="20181121T093805Z">
+        <seg>Just as Lin Jie finished equipped the falling feather-like gemstone to his chest, he noticed Sky Reaching Shield's presence getting nearer!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9043,8 +9043,8 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>技能描述：你提高30%移动速度进行急速冲刺，对第一个碰撞目标造成70%伤害并使其眩晕0.5秒。当你强制取消技能时，冷却时间减少2秒。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181121T092852Z" creationid="User" creationdate="20181121T092852Z">
-        <seg>Skill Description: 30% increase in moving speed when charging forward. Cause 70% damage to the first target which was hit and cause the target to be stunned for 0.5 seconds. When you forcibly cancel the skill, cool down time reduces by 2 seconds.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T183923Z" creationid="User" creationdate="20181121T092852Z">
+        <seg>Skill Description: 30% increase in moving speed when charging forward. Causes 70% damage to the first target which was hit and stuns the target for 0.5 seconds. When you forcibly cancel the skill, the cool down time reduces by 2 seconds.</seg>
       </tuv>
     </tu>
     <tu>
