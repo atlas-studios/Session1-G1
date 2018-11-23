@@ -1037,3 +1037,4 @@
 无品级	unrankable
 亡语药剂	necromancy potion
 秋远	Qiu Yuan
+余越寒	Yu Yuehan
