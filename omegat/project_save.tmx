@@ -1452,8 +1452,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“唰——”一辆奢华的跑车，稳稳的停在摩天大厦的门口。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181123T051505Z" creationid="User" creationdate="20181123T051505Z">
-        <seg>"Swish..." An extravagant racing car stopped steadily in front of the </seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181123T051953Z" creationid="User" creationdate="20181123T051505Z">
+        <seg>"Swish..." An extravagant sports car parked steadily in front of the doors of the skyscraper.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -6186,8 +6186,8 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       <tuv lang="ZH-CN">
         <seg>余氏集团。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181123T051107Z" creationid="User" creationdate="20181123T051059Z">
-        <seg>The Yu Enterprise</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181123T051110Z" creationid="phang" creationdate="20181123T051110Z">
+        <seg>The Yu Enterprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9059,8 +9059,8 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>所有员工，整齐的站成两列，迎接boss的到来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181123T051406Z" creationid="User" creationdate="20181123T051406Z">
-        <seg>All the employee stood in a neat two rows, awaiting the arrival of the boss.</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181123T051813Z" creationid="phang" creationdate="20181123T051509Z">
+        <seg>In two neat rows, all the employees stood to welcome the arrival of their boss. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17272,6 +17272,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>首先映入眼帘的，是一双修长的腿，包裹在黑色的西装裤下，踩在地上，无声的气场仿佛踩在每个人的心尖上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="phang" changedate="20181123T052332Z" creationid="phang" creationdate="20181123T052332Z">
+        <seg>The first thing to be in sight was a pair of long slim legs wearing black suit pants.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>马家作为天羽城五大家族之一，他们家族的一举一动都被其余家族所关注，不过马飞不想把这事闹得人尽皆知，所以其余家族只是知道马家在找一个人，一个铸鼎境二重，十五六岁的少年。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181025T154551Z" creationid="tianqi" creationdate="20181025T153145Z">
@@ -17434,8 +17442,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>高耸入天的的摩天大厦，屹立在H市寸土寸金的金融中心，睥睨一切。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181123T051732Z" creationid="User" creationdate="20181123T051322Z">
-        <seg>The skyscraper that seem to reach the sky, stands middle of the central business district of H City, as though looking down on the city arrogantly.</seg>
+      <tuv lang="EN-US" changeid="phang" changedate="20181123T051438Z" creationid="phang" creationdate="20181123T051438Z">
+        <seg>The huge building towering the sky stands tall in the expensive land of the Central Business District of H City, overseeing the whole city.   </seg>
       </tuv>
     </tu>
     <tu>
