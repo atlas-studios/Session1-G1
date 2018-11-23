@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6808,8 +6808,8 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
       <tuv lang="ZH-CN">
         <seg>另一本技能书，则雕印着淡紫色的花纹，显然不是凡品！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T182218Z" creationid="phang" creationdate="20181122T182218Z">
-        <seg>Another skill book with light purple patterns carved on it, this is definitely not an ordinary item!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181123T011444Z" creationid="phang" creationdate="20181122T182218Z">
+        <seg>Another skill book that had light purple patterns carved on it, this is definitely not an ordinary item!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8601,8 +8601,8 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       <tuv lang="ZH-CN">
         <seg>很不错的战靴，正好用得上，还可以弥补赤足行走的痛苦。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="phang" changedate="20181122T170353Z" creationid="phang" creationdate="20181122T170353Z">
-        <seg>A rather decent combat shoes </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181123T011323Z" creationid="phang" creationdate="20181122T170353Z">
+        <seg>A rather decent combat shoes, just nice usable. It can also reduce the pain from walking on bare foot.</seg>
       </tuv>
     </tu>
     <tu>
