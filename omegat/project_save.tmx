@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16430,8 +16430,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>这么说来，阿拉所需求的死灵残念根本不止那么点？林杰心中一喜，任何一个人进行同一个任务得到的遭遇都是不同的，这个药剂至少表明，自己开发任务更加彻底！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181122T185620Z" creationid="User" creationdate="20181121T113553Z">
-        <seg>Does this mean Ah La Suo requires more undead souls? Lin Jie felt happiness from the bottom of his heart. Every perosn will face different encounters even if they attempted the same mission. At the very least, this potion indicates that he had developed the mission much more thoroughly!</seg>
+      <tuv lang="EN-US" changeid="jingh" changedate="20181123T030439Z" creationid="User" creationdate="20181121T113553Z">
+        <seg>Does this mean Ah La Suo requires more undead souls? Lin Jie felt happiness from the bottom of his heart. Every person will face different encounters even if they attempted the same mission. At the very least, this potion indicates that he had developed the mission much more thoroughly!</seg>
       </tuv>
     </tu>
     <tu>
